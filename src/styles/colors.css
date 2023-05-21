@@ -1,0 +1,9 @@
+:root {
+    --main-color: #FFFFFF;
+    --accent-color: rgba(255, 209, 140, 0.25);
+    --dark-color: #000000;
+    --bright-color: #FBB854;
+    --light-text-color: #575757;
+    --light-color: #D9D9D9;
+    --desaturated-color: #E8E8E8;
+}

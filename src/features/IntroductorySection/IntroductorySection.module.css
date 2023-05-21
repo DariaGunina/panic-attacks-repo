@@ -1,0 +1,37 @@
+.mainImg {
+  object-fit: cover;
+}
+  
+.imageWrapper {
+  width: 400px;
+  position: relative;
+}
+  
+.container {
+  padding: 30px 20px 0 20px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  background-color: var(--main-color);
+}
+
+.section {
+  margin-top: 60px;
+  width: 585px;
+}
+
+.title {
+  font-weight: 200;
+  font-size: 40px;
+  line-height: 24px;
+  margin-top: 30px;
+}
+
+.content {
+  font-style: normal;
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 24px;
+  margin: 30px 0 30px;
+  color: var(--light-text-color);
+}
