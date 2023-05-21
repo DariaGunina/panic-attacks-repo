@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.title {
+    margin-left: 10px;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 28px;
+    color: var(--dark-color);
+}
+
+.image {
+    fill: var(--bright-color);
+    width: 50px;
+    height: 50px;
+}
